@@ -1,0 +1,15 @@
+body {
+    min-height: 100%;
+    background: aliceblue;
+}
+.main {
+    padding: 20px;
+}
+.btn-cls {
+    float: right;
+}
+.table {
+    overflow: scroll;
+    height: 500px !important;
+    display: block;
+}
